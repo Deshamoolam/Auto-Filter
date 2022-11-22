@@ -97,4 +97,4 @@ python3 bot.py
 ```
 
 Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/CyniteOfficial)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://t.me/CyniteBots)
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝗖ɪɴᴇᴍᴀ𝗫ᴘʀᴇ𝘀𝘀](https://t.me/CxMain)
