@@ -5,7 +5,7 @@
   <b>ᎪႮͲϴ-ҒᏆᏞͲᎬᎡ</b>
 </h1>
 <a href="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ">
-  <img src="https://img.shields.io/badge/JOIN GROUP-red?logo=youtube" width="150">
+  <img src="https://img.shields.io/badge/SUBSCRIBE-red?logo=youtube" width="150">
 
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot/fork)
